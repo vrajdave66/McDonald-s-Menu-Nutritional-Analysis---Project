@@ -1,0 +1,15 @@
+Dear Upgrad,
+
+I hope this message finds you well. I am pleased to inform you that I have uploaded my completed project on GitHub for your review. The repository includes the following files:
+
+Question File: Outlines the initial project requirements and objectives.
+Python Script: Contains the data analysis and visualization code.
+Report: Summarizes the key findings, insights, and recommendations.
+README.md: Provides an overview of the project, including instructions for replicating the analysis.
+
+You can access the repository using the following link: https://github.com/vrajdave66/McDonald-s-Menu-Nutritional-Analysis---Project.
+
+Please let me know if you have any questions or require additional information.
+
+Best regards,
+Vraj Dave
