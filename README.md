@@ -13,11 +13,14 @@ This project analyzes the nutritional content of McDonald's menu items to identi
 - Pandas  
 - Matplotlib  
 - Seaborn  
-
-## Files Included  
-1. **mcdonalds_analysis.ipynb**: The Jupyter Notebook with step-by-step analysis.  
-2. **report.pdf**: Final report containing findings and insights.  
-3. **Nutrical Dataset.csv**: Nutritional dataset used in the analysis.  
+ 
+## Files in Repository
+- **McDonald's Menu Nutritional Analysis.py**: Python data analysis and visualization code.
+- **McDonald's Menu Nutritional Analysis_Report.pdf**: Summary of findings and recommendations.
+- **Questions.txt**: Project requirements and objectives.
+- **Nutrical Dataset.csv**: Nutritional dataset used in the analysis.
+- **README.md**: Project overview and instructions.
+- **Information**
 
 ## Insights  
 1. Top calorie-dense items are identified.  
@@ -38,8 +41,3 @@ This project analyzes the nutritional content of McDonald's menu items to identi
 4. **Transparency and Education**:  
    - Clearly display nutritional information to help customers make informed choices.  
  
-
-## How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/mcdonalds-nutritional-analysis.git
